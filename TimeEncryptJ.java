@@ -9,7 +9,6 @@ import java.util.Scanner;
  */
 public class TimeEncryptJ
 {
-    Scanner scan = new Scanner(System.in);
     private long et = System.currentTimeMillis(); //encryption time.
     private int et1 = (int)(et % 255), te = 4, ev = et1+ 2; //+2 to avoid ceasar breaking.
     //et1 is the offset, evaluated from et. te is the time encryption value, ev is encryption value.
