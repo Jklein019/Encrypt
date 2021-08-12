@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TimeEncryptJ
+comment0.text=\r\n\ \r\n
+comment1.params=msg
+comment1.target=TimeEncryptJ(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ encrypt()
+numComments=3
